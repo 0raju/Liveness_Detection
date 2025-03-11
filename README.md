@@ -1,7 +1,6 @@
 # Overview
 
-This is the source code for our research titled:  
-**Iris Print Attack Detection using Eye Movement Signals**.
+This is the source code for our research titled:  **Iris Print Attack Detection using Eye Movement Signals**.
 
 The paper is published in ETRA'2022. You can find it [here](https://dl.acm.org/doi/abs/10.1145/3517031.3532521).
 
